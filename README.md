@@ -2,7 +2,7 @@
 
 A mapview example for Android using Mapbox.
 
-## 🔨 Build Setup
+## :hammer: Build Setup
 
 ```bash
 # clone mapview-mapbox project
