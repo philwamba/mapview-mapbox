@@ -1,4 +1,4 @@
-# 📚 mapview-mapbox
+# :books: mapview-mapbox
 
 A mapview example for Android using Mapbox.
 
@@ -18,6 +18,6 @@ yarn install
 react-native run-android
 ```
 
-## Screenshot
+## :paperclip: Screenshot
 
 <img src="screenshot.png">
